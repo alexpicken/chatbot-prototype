@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/alexpicken/python-api
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/alexpicken/frontend-app
+[submodule "neodash"]
+	path = neodash
+	url = https://github.com/alexpicken/neodash-app
